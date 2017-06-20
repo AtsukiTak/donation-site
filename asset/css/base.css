@@ -1,0 +1,145 @@
+@charset "UTF-8";
+
+body {
+  color: #5f5d5d;
+  background: #fafaf6;
+  font-size: 14px;
+  font: 14px "Lucida Grande","Lucida Sans Unicode","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W6","HiraKakuPro-W6", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif !important;
+}
+
+h1 { font-size: 2em;margin: 1.7em 0 ;}
+h2 { font-size: 1.5em;margin: 1.5em 0;}
+h3 { font-size: 1.125em;margin: 1.125em 0;}
+h4 { font-size: 1em; margin: 1em 0;}
+h5 { font-size: 0.75em; margin: 0.75em 0;}
+h6 { font-size: 0.65em; margin: 0.65em 0;}
+
+#contents_container > p > img {
+  width: auto;
+  display: block;
+  max-width: 100%;
+  max-height: 60vh;
+  margin: 5% auto;
+}
+
+#contents_container > * {
+  width: auto;
+  display: block;
+  max-width: 70%;
+  margin: 5% auto;
+}
+
+@media screen and ( max-width:767px )
+{
+  #contents_container > * {
+    width: auto;
+    display: block;
+    max-width: 90%;
+    margin: 5% auto;
+  }
+
+  h1 { font-size: 1.5em;margin: 1.5em 0 ;}
+  h2 { font-size: 1.2em;margin: 1.2em 0;}
+  h3 { font-size: 1em;margin: 1em 0;}
+  h4 { font-size: 0.7em; margin: 0.7em 0;}
+  h5 { font-size: 0.6em; margin: 0.6em 0;}
+  h6 { font-size: 0.5em; margin: 0.5em 0;}
+}
+
+a {
+  text-decoration: none;
+}
+
+#contents_container > h1 {
+  color: #17b3b3;
+}
+
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.clearfix:after {
+  clear: both;
+  display: table;
+  visibility: hidden;
+  content: "";
+}
+
+.hidden {
+  display: none;
+}
+#bg_img {
+  position: relative;
+  width:100%;
+  background: url(../img/mainvisual.png) 0 0 no-repeat;
+  background-size: contain;
+}
+
+#bg_img:before {
+  content: "";
+  display: block;
+  padding-top:56.25%;
+}
+
+/* エラーページ */
+
+#bg_error_img {
+  padding-top:56.25%;
+  position: relative;
+  width:100%;
+  display: block;
+}
+
+#bg_error_img .top-inner-wrapper {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom:0;
+}
+/**/
+/* ヘッダー BGN */
+.header {
+  /*width: 100%;*/
+  padding: 10px 0 0 0;
+  background-color: #ffffff;
+  border-bottom: thin solid #b5cc18;
+}
+
+.header .header-inner {
+  width:100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.header .header-inner:after {
+  clear: both;
+  display: table;
+  visibility: hidden;
+  content: "";
+}
+
+.header .header-inner .logo-area,
+.search-area,
+.about-area
+{
+  float: left;
+}
+
+/* ヘッダー END */
+
+td, th {
+  width: 30%;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.about {
+  margin: 10px 20px;
+  float: right;
+  font-size: x-large;
+  color: #f2711c;
+}
