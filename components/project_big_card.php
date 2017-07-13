@@ -58,6 +58,11 @@ $project_info = json_decode($project_info_json_str);
                   </div>
                 </div>
               </div>
+              <div class="item">
+                <div class="content">
+                  <button class="indiesquare-button" style="border:none;width:100%;padding:10px;text-align:center;background:#E54353;color:#fff;border-radius:50px;">IndieSquare Walletで寄付</button>
+                </div>
+              </div>
             </div>
           </div>
         </div>
