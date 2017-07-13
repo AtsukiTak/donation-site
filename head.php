@@ -32,6 +32,8 @@ parsetags: 'explicit'
 }
 </script>
 
+<script src="https://cdn.indiesquare.me/v1/indiesquare.min.js"></script>
+<script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/master/qrcode.min.js"></script>
 <script>
 $(document).ready(function(){
 // Initiailize
