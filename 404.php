@@ -1,10 +1,14 @@
+<?php
+require_once(__DIR__.'/config.php');
+$conf = new Config();
+?>
 <!DOCTYPE html>
 <html>
-  <?php require($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
+  <?php require($conf->ROOT_DIR.'/head.php'); ?>
 
   <body>
-  <?php require($_SERVER['DOCUMENT_ROOT'].'/fb.php'); ?>
-  <?php require($_SERVER['DOCUMENT_ROOT'].'/components/header.php'); ?>
+  <?php require($conf->ROOT_DIR.'/fb.php'); ?>
+  <?php require($conf->ROOT_DIR.'/components/header.php'); ?>
     <div class="container">
         <div id="bg_error_img" class="clearfix">
           <div class="top-inner-wrapper">
@@ -12,7 +16,7 @@
           </div>
         </div>
     </div>
-  <?php require($_SERVER['DOCUMENT_ROOT'].'/components/footer.php'); ?>
+  <?php require($conf->ROOT_DIR.'/components/footer.php'); ?>
   </body>
 </html>
 

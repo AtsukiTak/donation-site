@@ -1,13 +1,15 @@
 <?php
+require_once(__DIR__.'/config.php');
+$conf = new Config();
 $curator_id = htmlspecialchars($_GET['id']);
-if ($curator_id == '' || file_exists($_SERVER['DOCUMENT_ROOT'].'/data/curators/'.$curator_id) == FALSE) {
+if ($curator_id == '' || file_exists($conf->ROOT_DIR.'/data/curators/'.$curator_id) == FALSE) {
   header('Location: 404.php');
   exit();
 }
 
-require_once($_SERVER['DOCUMENT_ROOT'].'/lang.php');
+require_once($conf->ROOT_DIR.'/lang.php');
 
-$curator_info_json_str = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/data/curators/'.$curator_id.'/info_'.$lang.'.json');
+$curator_info_json_str = file_get_contents($conf->ROOT_DIR.'/data/curators/'.$curator_id.'/info_'.$lang.'.json');
 if ($curator_info_json_str == FALSE) { return FALSE; }
 $curator_info = json_decode($curator_info_json_str);
 ?>
@@ -15,10 +17,10 @@ $curator_info = json_decode($curator_info_json_str);
 
 <!DOCTYPE html>
 <html>
-<?php require($_SERVER['DOCUMENT_ROOT'].'/head.php'); ?>
+<?php require($conf->ROOT_DIR.'/head.php'); ?>
 <body>
-<?php require($_SERVER['DOCUMENT_ROOT'].'/fb.php'); ?>
-<?php require($_SERVER['DOCUMENT_ROOT'].'/components/header.php'); ?>
+<?php require($conf->ROOT_DIR.'/fb.php'); ?>
+<?php require($conf->ROOT_DIR.'/components/header.php'); ?>
 
 <div class="ui container">
   <div class="ui very padded vertical segment">
@@ -45,14 +47,14 @@ $curator_info = json_decode($curator_info_json_str);
     <div class="ui two column stackable grid link">
 <?php
 foreach( $curator_info->curated_project_ids as $project_id) {
-  require($_SERVER['DOCUMENT_ROOT'].'/components/project_card.php');
+  require($conf->ROOT_DIR.'/components/project_card.php');
 }
 ?>
     </div>
   </div>
 </div>
 
-<?php require($_SERVER['DOCUMENT_ROOT'].'/components/footer.php'); ?>
+<?php require($conf->ROOT_DIR.'/components/footer.php'); ?>
 
 </body>
 </html>
