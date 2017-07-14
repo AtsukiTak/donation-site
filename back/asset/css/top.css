@@ -1,0 +1,223 @@
+@charset "UTF-8";
+
+.mainvisual img {
+	width: 100%;
+        display: block;
+    }
+
+
+.top-inner-wrapper {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 4%;
+    text-align: center;
+    z-index: 888;
+}
+
+.top-inner-wrapper img {
+    width: 100%;
+}
+
+.header-container {
+    width: 100%;
+    margin:0 auto;
+}
+
+.inner {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+#mypage {
+    width: 95%;
+    margin: 20px auto;
+}
+
+#userinfo {
+    background: #FFF;
+    border-radius: 2px;
+    padding: 10px;
+    box-shadow: inset 0px -3px 0 0 rgba(0,0,0,0.08);
+}
+
+#userinfo .desc {
+    width: 70%;
+    float: left;
+}
+
+.container .inner .product-section:first-child {
+    padding-top: 60px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    }
+
+.container .inner .product-section {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.container .inner .product-section .product-column {
+    padding: 10px;
+    height: auto;
+    background: #FFF;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #e7e7e7;
+    border-radius: 2px;
+
+}
+
+.container .inner .product-section .product-column:last-child {
+    margin-right: 0;
+}
+
+.container .inner .product-section .product-column .product-column-inner {
+    padding: 0px;
+}
+
+.container .inner .product-section .product-column .product-column-inner .product-thumb,
+.product-company {
+    float: left;
+}
+
+.container .inner .product-section .product-column .product-column-inner .product-info {
+    float: left;
+    width: 53%;
+    margin-left: 10px;
+}
+
+.container .inner .product-section .product-column .product-column-inner .product-company {
+    padding: 9px 0 0;
+    width: 100%;
+}
+
+.container .inner .product-section .product-column .product-column-inner .product-name {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+    .product-name a {
+        color: #333333;
+    }
+
+    .container .inner .product-section .product-column .product-thumb,
+    .product-company .company-name a {
+        color: #028fe9;
+    }
+
+    .container .inner .product-section .product-column .product-thumb,
+    .product-company .product-category {
+        font-size: 12px;
+    }
+
+    .container .inner .product-section .product-column .product-company .product-category .icon {
+        background-image: url("../img/icon_01.png");
+        background-repeat: no-repeat;
+        background-position: 0;
+        padding: 5px 10px;
+    }
+
+    .container .inner .more-btn {
+        background-color: #9debf9;
+        width: 800px;
+        margin: 30px auto 0;
+        padding: 15px 0;
+        text-align: center;
+        border: 1px solid #9debf9;
+        border-radius: 5px;
+    }
+
+    .container .inner .more-btn a {
+        color: #313131;
+    }
+
+    .container .inner .report-section {
+        margin-top: 60px;
+    }
+
+    .container .inner .report-section .report-hdg {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 40px;
+    }
+
+    .container .inner .report-section .report-hdg .icon {
+        background-image: url("../img/icon_02.png");
+        background-repeat: no-repeat;
+        background-position: 0;
+        padding: 7px 20px;
+    }
+
+    .container .inner .report-section .report-column {
+        float: left;
+        width: 455px;
+        padding: 10px 10px 5px 0;
+    }
+
+    .container .inner .report-section .report-column.first {
+        border-right: 1px solid #d4d4d4;
+        border-bottom: 1px solid #d4d4d4;
+    }
+
+    .container .inner .report-section .report-column.second {
+        border-bottom: 1px solid #d4d4d4;
+        padding-left: 10px;
+    }
+
+    .container .inner .report-section .report-column.third {
+        border-right: 1px solid #d4d4d4;
+    }
+
+    .container .inner .report-section .report-column.fourth {
+        padding-left: 10px;
+    }
+
+    .container .inner .report-section .report-thumb-column,
+    .report-txt-column {
+        float: left;
+    }
+
+    .container .inner .report-section .report-thumb-column {
+        width: 120px;
+        margin-right: 10px;
+    }
+
+    .container .inner .report-section .report-txt-column {
+        width: 325px;
+    }
+
+    .container .inner .column-section {
+        border: none;
+        margin-top: 20px;
+    }
+
+    .readmore {
+        position: relative;
+    }
+
+    .readmore.fold {
+        height: 300px;
+        overflow-y: hidden;
+    }
+
+    .readmore-btn {
+        position: absolute;
+        bottom: 0px;
+        text-align: center;
+        width: 99%;
+        height: 30px;
+        color: #252525;
+        font-weight: bold;
+        z-index: 10;
+        background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.5)), to(#fff));
+        background: -moz-linear-gradient(top, rgba(255,255,255,0.5), #fff);
+        background: -o-linear-gradient(top, rgba(255,255,255,0.5), #fff);
+        background: linear-gradient(top, rgba(255,255,255,0.5), #fff);
+    }
+
+    .readmore-btn:hover {
+        color: #666;
+    }

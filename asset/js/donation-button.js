@@ -17,12 +17,17 @@ indiesquare.getBalances({'source': '1JynF1GgD279DBZxQBubJXz4NuHcTy65k3'}, functi
 });
 
 //WEBの判別
-if(agent.search(/iPhone/) != -1 || agent.search(/iPad/) != -1 || agent.search(/iPod/) != -1 || agent.search(/Android/) != -1){
+if ((navigator.userAgent.indexOf('iPhone') > 0 && navigator.userAgent.indexOf('iPad') == -1) || navigator.userAgent.indexOf('iPod') > 0 || navigator.userAgent.indexOf('Android') > 0) {
  //スマホの場合
- $(".indiesquare-button").hide();
+ $(".indiesquare-button").show();
+ $(".indiesquare-button2").hide();
 } else {
  //WEBの場合
 }
+
+$(".indiesquare-button2").click(function(){
+  window.location = "https://wallet.indiesquare.me";
+});
 
 $(".indiesquare-button").click(function(){
 //alert("ok");
