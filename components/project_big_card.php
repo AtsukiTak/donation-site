@@ -1,17 +1,17 @@
 <?php
-$project_info_json_str = file_get_contents($_SERVER['DOCUMENT_ROOT'].'/data/projects/'.$project_id.'/info_'.$lang.'.json');
+$project_info_json_str = file_get_contents($conf->ROOT_DIR.'/data/projects/'.$project_id.'/info_'.$lang.'.json');
 $project_info = json_decode($project_info_json_str);
 ?>
 
-<script src="/asset/js/bit-coin-api.js"></script>
-<script src="/asset/js/jquery-qrcode.min.js"></script>
+<script src="./asset/js/bit-coin-api.js"></script>
+<script src="./asset/js/jquery-qrcode.min.js"></script>
 
     <div class="ui vertical segment">
       <div class="ui fluid raised card">
         <div class="ui stackable stretched grid" style="margin: 0">
           <div class="twelve wide column" style="padding: 0px">
             <div class="ui fluid image">
-              <img src="/data/projects/<?php echo $project_id ?>/thumbnail.jpg">
+              <img src="./data/projects/<?php echo $project_id ?>/thumbnail.jpg">
             </div>
           </div>
           <div class="four wide column" style="margin: 0">
@@ -66,14 +66,14 @@ $project_info = json_decode($project_info_json_str);
           <div class="item">
             <div class="ui tiny left floated image">
               <object>
-                <a href='curator.php?id=<?php echo $project_info->curator_id.'&lang='.$lang; ?>'>
-                  <img src="/data/curators/<?php echo $project_info->curator_id; ?>/thumbnail.jpg" alt="キュレーター"/>
+                <a href='./curator.php?id=<?php echo $project_info->curator_id.'&lang='.$lang; ?>'>
+                  <img src="./data/curators/<?php echo $project_info->curator_id; ?>/thumbnail.jpg" alt="キュレーター"/>
                 </a>
               </object>
             </div>
             <div class="ui small header">
               <object>
-                <a href='curator.php?id=<?php echo $project_info->curator_id.'&lang='.$lang; ?>'>
+                <a href='./curator.php?id=<?php echo $project_info->curator_id.'&lang='.$lang; ?>'>
                   <?php echo $project_info->curator_name; ?>
                 </a>
               </object>
@@ -82,9 +82,9 @@ $project_info = json_decode($project_info_json_str);
           </div>
         </div>
         <div class="extra" style="display: flex">
-<?php require($_SERVER['DOCUMENT_ROOT']. '/components/social/twitter.php'); ?>
-<?php require($_SERVER['DOCUMENT_ROOT']. '/components/social/facebook.php'); ?>
-<?php require($_SERVER['DOCUMENT_ROOT']. '/components/social/google.php'); ?>
+<?php require($conf->ROOT_DIR.'/components/social/twitter.php'); ?>
+<?php require($conf->ROOT_DIR.'/components/social/facebook.php'); ?>
+<?php require($conf->ROOT_DIR.'/components/social/google.php'); ?>
         </div>
       </div>
     </div>

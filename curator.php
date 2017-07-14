@@ -28,7 +28,7 @@ $curator_info = json_decode($curator_info_json_str);
       <div class="ui two column stackable relaxed grid">
         <div class="six wide column">
           <div class="ui fluid image">
-            <img src="<?php echo '/data/curators/'.$curator_id.'/thumbnail.jpg'; ?>" alt="">
+            <img src="<?php echo './data/curators/'.$curator_id.'/thumbnail.jpg'; ?>" alt="">
           </div>
         </div>
         <div class="ten wide column">

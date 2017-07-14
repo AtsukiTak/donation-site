@@ -31,7 +31,7 @@ if ($project_id == '' || file_exists($conf->ROOT_DIR.'/data/projects/'.$project_
             <!-- Contents BGN --> 
             <div class="ui bottom attached active tab segment" data-tab="project_info" id="contents_container">
 <?php
-require_once("vendor/Michelf/Markdown.inc.php");
+require_once("./vendor/Michelf/Markdown.inc.php");
 use Michelf\Markdown;
 
 $text = file_get_contents($conf->ROOT_DIR.'/data/projects/'.$project_id.'/contents_'.$lang.'.md');

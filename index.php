@@ -38,7 +38,7 @@ require_once($conf->ROOT_DIR.'/lang.php');
       </div>
       <div class="ui very padded vertical segment" style="font-size: 1.1em">
 <?php
-require_once($_SERVER['DOCUMENT_ROOT'].'/vendor/Michelf/Markdown.inc.php');
+require_once($conf->ROOT_DIR.'/vendor/Michelf/Markdown.inc.php');
 use Michelf\Markdown;
 
 $text = file_get_contents($conf->ROOT_DIR.'/data/about/about_'.$lang.'.md');

@@ -2,7 +2,7 @@
 
 We are Certified non-profit organization Dream times Possibility(DxP) based in Osaka (there are many social issues of education) in Japan.  We strive to provide high school students who are unable to feel hopeful about their future with opportunities to experience success and to communicate and bond with people.
 
-![image](/data/projects/02_dxp/party.jpg)
+![image](./data/projects/02_dxp/party.jpg)
 
 (Photo: Our members and supporters at the 3rd anniversary party)
 
@@ -16,7 +16,7 @@ There are a significant number of part-time high school students in Japan who ar
 
 The reason why D×P start this project is caused by Noriaki Imai, founder of D×P, his experience. He's got Hikikomori (Hikikomori has entered the Oxford English Dictionary as "In Japan: abnormal avoidance of social contact") experience in Japan when he was 18~23 years old. Why that's happened was because of his Hostage Incident in Iraq in 2004. He was captured by Iraq resistance and when he came back to Japan, he was told that ''you should not come back to Japan'' '' you should die because Government try to help you using our bloody tax''. From that experience, Noriaki's been Hikikomori and when he got recovered from this, he met so many high school kids who got drop out and poverty issues, that's why he started this. 
 
-![image](/data/projects/02_dxp/noriaki.jpg)
+![image](./data/projects/02_dxp/noriaki.jpg)
 
 (Photo: Noriaki Imai at the time of foundation)
 
@@ -24,7 +24,7 @@ The reason why D×P start this project is caused by Noriaki Imai, founder of D×
 
 We think the cause of high dropout rate is that students are not able to build human relationship, that is to say people you can trust and talk with. So, we help building human relationship within schools. In detail,  we hold class named “Crescendo”:  Holding classes where students meet up and talk with volunteer members of the community. These classes are designed to foster a positive mindset towards the idea of “working” by creating an opportunity to meet trustworthy adults and lowering the stumbling block to communicating with others. Number of students who participated our program reached 800 people in 2015. The program improve of social capital(supportive human relations for students to take action) index. Measured from surveys. Includes criteria for measuring social capital that we developed in collaboration with a professor from Nagoya University, such as “sense of belonging within a classroom”, “close friends at school”, “close friends from previous schools”, and so on. And the percentage of students who answered that they wanted to do after graduation rose to 70.8%. 
 
-![image](/data/projects/02_dxp/talking.jpg)
+![image](./data/projects/02_dxp/talking.jpg)
 
 (Photo: Students enjoy talking with volunteer members in our program)
 
@@ -32,7 +32,7 @@ We think the cause of high dropout rate is that students are not able to build h
 
 We use donations for holding classes in public high schools in Osaka . Because there are many students who lives in poverty in Japanese public high schools, especially in Osaka, and these schools have no budget and time for supporting such cases. By this donation, we can introduce our program to more schools without budget. As medium-term outcomes of the classes (social changes we aim to bring in the medium to long-term future), we improve grade advancement rate and reduce number of students dropping out. We introduce the same program into other part-time high schools. We aim for reducing first year dropouts to under 10% from the current 21% in part-time high schools across Japan.
 
-![image](/data/projects/02_dxp/future.jpg)
+![image](./data/projects/02_dxp/future.jpg)
 
 (Our future map in Japan)
 
