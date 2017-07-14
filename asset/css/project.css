@@ -1,0 +1,20 @@
+.indiesquare-button{
+  display: none;
+  border: none;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  background: #E54353;
+  color: #fff;
+  border-radius: 50px;
+}
+
+.indiesquare-button-web{
+  border: none;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  background: #E54353;
+  color: #fff;
+  border-radius: 50px;
+}

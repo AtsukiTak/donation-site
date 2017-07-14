@@ -3,13 +3,17 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Kizuna</title>
-<link href="/favicon.ico" type="image/x-icon" rel="icon"/>
-<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
-<link rel="stylesheet" href="/asset/semantic/semantic.min.css"/>
-<link rel="stylesheet" href="/asset/css/base.css"/>
-<link rel="stylesheet" href="/asset/css/top.css"/>
-<script src="/asset/js/jquery-3.1.1.min.js"></script>
-<script src="/asset/semantic/semantic.min.js"></script>
+<link href="./favicon.ico" type="image/x-icon" rel="icon"/>
+<link href="./favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+<link rel="stylesheet" href="./asset/semantic/semantic.min.css"/>
+<link rel="stylesheet" href="./asset/css/base.css"/>
+<link rel="stylesheet" href="./asset/css/top.css"/>
+<link rel="stylesheet" href="./asset/css/project.css"/>
+<script src="./asset/js/jquery-3.1.1.min.js"></script>
+<script src="./asset/semantic/semantic.min.js"></script>
+<script src="https://cdn.indiesquare.me/v1/indiesquare.min.js"></script>
+<script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/master/qrcode.min.js"></script>
+<script src="./asset/js/donation-button.js"></script>
 <meta name="google-site-verification" content="s6EP4Yy0sRztR2i_B14Drr7aD1j3T_WhQKQp7HdtdaQ" />
 <meta name="msvalidate.01" content="17B8AD371655CFF3112ABB4253B88E61" />
 
