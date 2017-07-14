@@ -30,10 +30,9 @@ $(".indiesquare-button-web").click(function(){
 });
 
 $(".indiesquare-button").click(function(){
-//alert("ok");
-indiesquare.transition({'screen': 'send', 'token': 'BTC', 'destination': '1JynF1GgD279DBZxQBubJXz4NuHcTy65k3', 'amount': 0.1}, function(url, urlScheme, error){
+indiesquare.transition({'screen': 'send', 'token': 'BTC', 'destination': '1JynF1GgD279DBZxQBubJXz4NuHcTy65k3', 'amount': 0.1},
+function(url, urlScheme, error){
     if( error ){
-        console.error(error);
         return;
     }
 });
