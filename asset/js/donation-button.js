@@ -18,7 +18,7 @@ $(document).ready(function(){
   }
 
   $(".indiesquare-button-web").click(function(){
-    window.location = "https://wallet.indiesquare.me";
+    window.open('https://wallet.indiesquare.me', '_blank');
   });
 
   $(".indiesquare-button").click(function(){
