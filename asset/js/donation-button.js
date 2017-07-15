@@ -8,16 +8,6 @@ $(document).ready(function(){
 
   var dest_btc_addr = jQuery("#bc-address").data("bc-address");
 
-  // Get balance on source address.
-  indiesquare.getBalances({'source': dest_btc_addr}, function(data, error){
-    if( error ){
-      console.error(error);
-      return;
-    }
-    console.log('Get balance on source address.');
-    console.dir(data);
-  });
-
   //WEBの判別
   if ((navigator.userAgent.indexOf('iPhone') > 0 && navigator.userAgent.indexOf('iPad') == -1) || navigator.userAgent.indexOf('iPod') > 0 || navigator.userAgent.indexOf('Android') > 0) {
     //スマホの場合
