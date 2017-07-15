@@ -6,8 +6,10 @@ $(document).ready(function(){
     // 'port': 8080
   });
 
+  var dest_btc_addr = jQuery("#bc-address").data("bc-address");
+
   // Get balance on source address.
-  indiesquare.getBalances({'source': '1JynF1GgD279DBZxQBubJXz4NuHcTy65k3'}, function(data, error){
+  indiesquare.getBalances({'source': dest_btc_addr}, function(data, error){
     if( error ){
       console.error(error);
       return;
@@ -30,7 +32,7 @@ $(document).ready(function(){
   });
 
   $(".indiesquare-button").click(function(){
-    indiesquare.transition({'screen': 'send', 'token': 'BTC', 'destination': '1JynF1GgD279DBZxQBubJXz4NuHcTy65k3', 'amount': 0.1},
+    indiesquare.transition({'screen': 'send', 'token': 'BTC', 'destination': dest_btc_addr},
       function(url, urlScheme, error){
         if( error ){
           return;
