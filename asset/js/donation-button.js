@@ -6,7 +6,7 @@ $(document).ready(function(){
     // 'port': 8080
   });
 
-  var dest_btc_addr = jQuery("#bc-address").data("bc-address");
+  var dest_btc_addr = $("#bc-address").data("bc-address");
 
   //WEBの判別
   if ((navigator.userAgent.indexOf('iPhone') > 0 && navigator.userAgent.indexOf('iPad') == -1) || navigator.userAgent.indexOf('iPod') > 0 || navigator.userAgent.indexOf('Android') > 0) {
