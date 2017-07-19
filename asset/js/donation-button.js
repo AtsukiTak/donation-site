@@ -1,7 +1,7 @@
 $(document).ready(function(){
   // Initiailize
   var indiesquare = new IndieSquare({
-    'apikey': 'abcdefghijk1234567890',
+    'apikey': 'd5d3c93630e8e7508dd00443bc5a32cb',
     // 'use-server': true,
     // 'port': 8080
   });
