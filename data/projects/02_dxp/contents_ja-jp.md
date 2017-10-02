@@ -1,36 +1,36 @@
-# Introduction
+# はじめに
 
-We are Certified non-profit organization Dream times Possibility(DxP) based in Osaka (there are many social issues of education) in Japan.  We strive to provide high school students who are unable to feel hopeful about their future with opportunities to experience success and to communicate and bond with people.
+はじめまして。大阪に拠点を置く認定NPO法人DxP（ディーピー）です。 私たちはしんどさを抱えた高校生が自分の未来に希望を持てる社会をつくるため、 ①成功体験の獲得　と　②社会関係資本（人とのつながり）の醸成の２つを軸に様々なプログラムを提供しています。
 
-![image](./data/projects/02_dxp/party.jpg)
+![image](./data/projects/02_dxp/party2.jpg)
 
-(Photo: Our members and supporters at the 3rd anniversary party)
+(Photo: 5周年記念パーティにて、私たちのスタッフとサポーターの皆様と。)
 
-# What we want to realize with this project
+# このプロジェクトで実現したいこと
 
-We want change the two objectives in Japan.
-First, it’s a high dropout rate of part-time high school students.
-There are a significant number of part-time high school students in Japan who are suffering from issues such as poverty and domestic violence. The dropout rate for first year students is 21%, 14 times the corresponding rate for full-time high schools, and many of these cases are not for positive purposes, but for circumstantial, regretful reasons. In Japan, not having a high-school diploma is highly limiting employment options. Moreover, without a place or an organization to belong to, such as a school or a workplace, it becomes even more difficult to move on to the next step, causing higher rates of unemployment.  Second, it’s difficult for students who have financially difficult situations to find employment after graduating high school. Many students in financially difficult situations are unable to pursue further studies or find long-term employment, and end up settling for less stable casual or unofficial positions. For these reasons, many students feel pessimistic about their future as they hold little prospect of higher income. 
+私たちは日本の中で、大きく2つのことを変えていきたいと考えています。  ひとつは、定時制高校における、中退率の高さ。全日制高校の中退率が1％程度であるのに対し、定時制高校の1年次の中退率は21％にのぼります。また、 定時制高校の生徒の 1/3がひとり親家庭であったり、通信制高校の生徒の60%が不登校経験があったり、いじめ・発達障害・家庭暴力など様々な「しんどい」事情を抱えている高校生たちが多くいます。進学も就職もしないまま、社会に放り出されてしまう現状を変えていきたいと考えています。
+もうひとつは、経済的困難な状況により、卒業後もさらなる進学先や長期的な就労が出来ないまま、多くの学生たちが自分たちの将来について悲観的に捉えてしまっていること。そんな彼らに対して、DxPはこれまで取り組んできた「社会関係資本をつくる＋成功体験をつくる」授業プログラムに加え、「卒業後も働き、学び続けられる」サポートをスタートし、こうした課題も具体的な支援体制を整え、卒業後も希望が持てる未来を創っていきたいと考えています。
 
-# The reason why I decide to start the project
+# プロジェクトをやろうと思った理由
 
-The reason why D×P start this project is caused by Noriaki Imai, founder of D×P, his experience. He's got Hikikomori (Hikikomori has entered the Oxford English Dictionary as "In Japan: abnormal avoidance of social contact") experience in Japan when he was 18~23 years old. Why that's happened was because of his Hostage Incident in Iraq in 2004. He was captured by Iraq resistance and when he came back to Japan, he was told that ''you should not come back to Japan'' '' you should die because Government try to help you using our bloody tax''. From that experience, Noriaki's been Hikikomori and when he got recovered from this, he met so many high school kids who got drop out and poverty issues, that's why he started this. 
+このプロジェクトが生まれた原点は、創業者今井紀明の、2004年のイラク人質事件での経験にさかのぼります。今井はイラク人質事件の当事者として帰国したのち、「自己責任」の言葉のもと「税金泥棒」「日本に帰ってくるな」等、社会からバッシングを受けて対人恐怖症となり、ひきこもりとなった経験があります。しかし、そんな状況を心配した友人たちや先生に支えられることで、次第に明るさを取り戻すようになった今井は回復後、今井は同じようなひきこもり体験をもつ子どもたちに会うようになりました。それがDxPのプログラムの原点となっています。
+
 
 ![image](./data/projects/02_dxp/noriaki.jpg)
 
-(Photo: Noriaki Imai at the time of foundation)
+(Photo: 創業当時の理事長、今井紀明)
 
-# Activities so far
+# これまでの活動
 
-We think the cause of high dropout rate is that students are not able to build human relationship, that is to say people you can trust and talk with. So, we help building human relationship within schools. In detail,  we hold class named “Crescendo”:  Holding classes where students meet up and talk with volunteer members of the community. These classes are designed to foster a positive mindset towards the idea of “working” by creating an opportunity to meet trustworthy adults and lowering the stumbling block to communicating with others. Number of students who participated our program reached 800 people in 2015. The program improve of social capital(supportive human relations for students to take action) index. Measured from surveys. Includes criteria for measuring social capital that we developed in collaboration with a professor from Nagoya University, such as “sense of belonging within a classroom”, “close friends at school”, “close friends from previous schools”, and so on. And the percentage of students who answered that they wanted to do after graduation rose to 70.8%. 
+「クレッシェンド」という授業プログラムにより、学校の中で、信頼できる「人とのつながり」を構築できるお手伝いをしています。この取り組みは、コンポーザーと呼ばれるボランティアと話す中で、少しずつ人を信頼するハードルを下げ、自分の将来を少しでも考えることができるようなプログラムになっています。2016年度には1,000名を超える高校生たちへ、このプログラムを届けることができました。こうした取り組みにより、授業を受けた後のアンケートで「卒業後にやりたいことがある」と答えた生徒は授業前の29.4%から授業後には70.8%と変化しています。また、授業プログラム以降も興味にあわせて継続的な「つながり」を構築する「アフタークレッシェンド」という取り組みや「いごこちかふぇ」という居場所事業、さらなる「成功体験」を積んでもらうための「チャレンジプログラム」等を通じて、様々な挑戦の機会を用意しています。
 
 ![image](./data/projects/02_dxp/talking.jpg)
 
-(Photo: Students enjoy talking with volunteer members in our program)
+(Photo: プログラムの中で、会話を楽しむスタッフと生徒たち)
 
-# Use of funds
+# 資金の使い道
 
-We use donations for holding classes in public high schools in Osaka . Because there are many students who lives in poverty in Japanese public high schools, especially in Osaka, and these schools have no budget and time for supporting such cases. By this donation, we can introduce our program to more schools without budget. As medium-term outcomes of the classes (social changes we aim to bring in the medium to long-term future), we improve grade advancement rate and reduce number of students dropping out. We introduce the same program into other part-time high schools. We aim for reducing first year dropouts to under 10% from the current 21% in part-time high schools across Japan.
+いただいたご寄付は、経済的に困窮している生徒も多い、公立の定時制・通信制高校に通う高校生にDxPのプログラムを届けるために使われます。ご寄付により、私たちはより多くの予算のない公立高校に私たちのプログラムを提供することができます。私たちが考える中長期的な授業の成果としての社会的変化は、日本の定時制高校における、1年以内に中退する率を10％以下にすることを目指しています。）10,000円のサポートで、サポーター10人が集まるとD×Pのプログラムを1クラスに1回高校生に届けることが出来るので、ぜひKIZUNAでのご寄付をお願い致します。
 
 ![image](./data/projects/02_dxp/future.jpg)
 
