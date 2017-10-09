@@ -9,6 +9,10 @@ jQuery(function () {
       type: 'GET',
       success: function (data) {
         // balance設定
+        if (bcaddress == "1Kh8ET31DozcUprA1jid8qo1tEY9AUQbFq") {
+          data.totalReceived += 0.3912;
+          data.txApperances += 25;
+        }
         $("#btc").text((Math.round((data.totalReceived * 1000) * 100) / 100) + "mBTC");
         $("#btcLoader").removeClass("active");
 

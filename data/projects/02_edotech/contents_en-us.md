@@ -1,6 +1,6 @@
 # Eradicate war – our utmost desire.<br>A school has started to make global leaders out of young people who have experienced war.
 
-![image1](./data/projects/01_edotech/Konno_with_Syrian_refugee2.jpg)
+![image1](./data/projects/02_edotech/Konno_with_Syrian_refugee2.jpg)
 
   （Konno with Syrian boys）
 
@@ -10,17 +10,17 @@
 
 ## Overview
 
-![image1](./data/projects/01_edotech/curriculum.jpg)
+![image1](./data/projects/02_edotech/curriculum.jpg)
 
   What Edo Tech wants is to cultivate world leaders. What Edo Tech offers to war survivors is not mere programming but high-level IT and leadership education
 
   The target of our project this time is Syrian refugees in Jordan who used to learn IT in Syria, Rwandan college students studying IT in Rwanda, and Rwandan elementary school students.
 
-![image1](./data/projects/01_edotech/pilot_program_in_Rwanda2.jpg)
+![image1](./data/projects/02_edotech/pilot_program_in_Rwanda2.jpg)
 
   （Pilot program in Rwanda. (Sep. 2016)）
 
-![image1](./data/projects/01_edotech/Syrian_refugee_student.jpg)
+![image1](./data/projects/02_edotech/Syrian_refugee_student.jpg)
 
   （A Syrian ex-college student and his father.）
 
@@ -28,7 +28,7 @@
   So far, humans have enjoyed rapidly developed technology and convenient society thanks to it.
   Rockets bring people to space, the Internet facilitates human communication, and the AI helps to reduce humans' burden. However, disastrous manslaughter and famine are still with us.
 
-![image1](./data/projects/01_edotech/father_go_blind_and_daughter_lost_voice.jpg)
+![image1](./data/projects/02_edotech/father_go_blind_and_daughter_lost_voice.jpg)
 
   A refugee family from Syria under fire. Father lost his eyesight, daughter her voice because of shock.）
 
@@ -41,7 +41,7 @@
   Syrian and Rwandan young people are such people.-
   They have strong desire to eradicate war and bring world peace through their abhorrent war experience.
 
-![image1](./data/projects/01_edotech/hard_learning_Ruwandan.jpg)
+![image1](./data/projects/02_edotech/hard_learning_Ruwandan.jpg)
 
 (Rwandan elementary schoolers ardently learning IT.)
 
@@ -52,7 +52,7 @@
 # IT to eliminate the causes of war.
   What our project will bring about.
 
-![image1](./data/projects/01_edotech/student_learning_IT_in_rwanda.jpg)
+![image1](./data/projects/02_edotech/student_learning_IT_in_rwanda.jpg)
 
 (A Rwandan college student learning IT with Mr. Noguchi, the Japanese CEO of the Rwanda branch.)
 
@@ -65,7 +65,7 @@
 
   The food shortage and the coffee-bean price collapse together indirectly triggered the slaughter with the toll of 1 million.
 
-![image1](./data/projects/01_edotech/agriculture_of_Rwanda.jpg)
+![image1](./data/projects/02_edotech/agriculture_of_Rwanda.jpg)
 
 (Rwanda now)
 
@@ -76,7 +76,7 @@
   Besides world peace, mastery of IT skills leads to better jobs.
   We want to support Rwandan and Syrian youngsters’ independence　through encouraging employment and their own businesses by offering cutting-edge IT skills beyond programming-
 
-![image1](./data/projects/01_edotech/young_man_learning_IT_in_syria.jpg)
+![image1](./data/projects/02_edotech/young_man_learning_IT_in_syria.jpg)
 
 (A Syrian boy learning IT)
 # Not only technology!
@@ -88,7 +88,7 @@
   To evade this, the curriculum of Social Good Method contains our original contents, such as ‘IT for Social Good’ in which students study cases where IT is used for social contribution activities, ‘Peaceful Mind’ with which to do things peacefully, and ‘Peace Public Relations’-
   Class is taking the case of laying out infrastructure for electronic money in areas without electricity in Mozambique.
 
-![image1](./data/projects/01_edotech/case_study.jpg)
+![image1](./data/projects/02_edotech/case_study.jpg)
 
 (Class is taking the case of laying out infrastructure for electronic money in areas without electricity in Mozambique)
 
@@ -96,27 +96,27 @@
   Classroom lecture is not enough to make competent leaders.
   In collaboration with local NPOs, we send our students to the websites of social problems. Through trying to find out solutions in the field, they improve problem resolution skills.
 
-![image1](./data/projects/01_edotech/NGO_supporting_woman_job_seekers.jpg)
+![image1](./data/projects/02_edotech/NGO_supporting_woman_job_seekers.jpg)
 
 (An NGO supporting Syrian refugees – one of our alliance partners. They help women get jobs and children go to school)
 
   Our students go to our alliance-partner NGOs or individuals in trouble and have interviews to identify the problem.
   Then, they devise resolutions to the problem found, consulting with Edo Tech or the NGO staff.
 
-![image1](./data/projects/01_edotech/detail_of_field_work.jpg)
+![image1](./data/projects/02_edotech/detail_of_field_work.jpg)
 
 (The students found children couldn’t go to school because they didn’t have traffic expenses. They devised a plan to introduce a school bus to solve this problem. The money was financed through a donation website.)
 
   Through this activity, our students improve their skills to identify some social problem and find out its resolutions. They also learn how to fundraise using IT.
   Through this practice, the students can contribute to the community, and this experience really enhances their determination to contribute to their own home countries.
 
-![image1](./data/projects/01_edotech/NGO_of_syria_for_syria.jpg)
+![image1](./data/projects/02_edotech/NGO_of_syria_for_syria.jpg)
 
 (Our alliance-partner NGO supports rehabilitation of Syrian refugees who got disabled in war.)
 
 # Your money goes...
 
-![image1](./data/projects/01_edotech/children_who_can_not_go_school.jpg)
+![image1](./data/projects/02_edotech/children_who_can_not_go_school.jpg)
 
 (Syrian refugee children. They can’t go to school because they can’t afford traffic expenses. ‘Field Work’ is one of your donation’s destinations. This helps solve such problems with our students and local NGOs.)
 
@@ -138,7 +138,7 @@
 - Period : March 2017 to August 2018 (School is closed in June because of Ramadan.) 
 - Target : Syrian refugees learning students and students at PSUT
 
-![image1](./data/projects/01_edotech/PSUT.jpg)
+![image1](./data/projects/02_edotech/PSUT.jpg)
 
 (center)Mr. Alefal, the president of PSUT, (right) Mr. Konno, (left) Mr. Ochiai, CEO at the Jordan branch, with executive professors.)
 
@@ -147,7 +147,7 @@
 - Period : At the beginning of March 201
 - Target : Rwandan college students studying IT, elementary schoolers
 
-![image1](./data/projects/01_edotech/ASID.jpg)
+![image1](./data/projects/02_edotech/ASID.jpg)
 
 (Sep. 2016, in Kigali. The person in charge at ASID, Konno Principal of EdoTec Global school　(left), Noguchi(CEO at the Rwandan branch)
 

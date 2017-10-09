@@ -1,6 +1,6 @@
 # 人類の悲願・戦争を無くす」ために。<br>戦争を経験した国の青少年から世界リーダーを育成する学校をスタート
 
-![image1](./data/projects/01_edotech/Konno_with_Syrian_refugee2.jpg)
+![image1](./data/projects/02_edotech/Konno_with_Syrian_refugee2.jpg)
 
 （写真左：エドテックグローバル代表理事・金野索一。シリア難民の少年たちと）
 
@@ -10,18 +10,18 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 
 ## 講義概要
 
-![image1](./data/projects/01_edotech/curriculum.jpg)
+![image1](./data/projects/02_edotech/curriculum.jpg)
 
 （エドテックグローバルでは、単なるプログラミングの技術ではなく、より高度なIT技術教育とリーダーシップ教育を行い、世界リーダーの育成を目指します）
 
 今回のプロジェクトのターゲットになるのは、シリアでITを学んでいたが、難民としてヨルダンにいる元大学生、ルワンダでITを勉強する大学生、そしてルワンダの小学生です。 
 
-![image1](./data/projects/01_edotech/pilot_program_in_Rwanda2.jpg)
+![image1](./data/projects/02_edotech/pilot_program_in_Rwanda2.jpg)
 
 （2016年9月。ルワンダで実施したパイロットプログラム中の一コマ）
 
 
-![image1](./data/projects/01_edotech/Syrian_refugee_student.jpg)
+![image1](./data/projects/02_edotech/Syrian_refugee_student.jpg)
 
 （シリア難民の元大学生。右はその父親）
 
@@ -29,7 +29,7 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 
 これまでの人類は、テクノロジーが急速な勢いで発達し、社会は非常に便利になりました。しかし、ロケットで人が宇宙へ行き、インターネットや人工知能が登場しても、未だ悲惨な殺し合いも、飢餓も世の中から無くなっていません。
 
-![image1](./data/projects/01_edotech/father_go_blind_and_daughter_lost_voice.jpg)
+![image1](./data/projects/02_edotech/father_go_blind_and_daughter_lost_voice.jpg)
 
 （戦火のシリアから逃げてきた難民の家族を訪問した際の写真。戦争で父は失明し、娘はショックで声が出なくなった。）
 
@@ -38,7 +38,7 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 ではもし、戦争がなくならないと困る人たちが世界リーダーとなることができたら？
 シリアやルワンダの青少年こそ、まさに戦争がなくならないと困る人達です。彼らは、その悲痛な原体験を通じて、戦争を無くし、平和な世の中をつくることに並々ならぬ意欲を持っています。
 
-![image1](./data/projects/01_edotech/hard_learning_Ruwandan.jpg)
+![image1](./data/projects/02_edotech/hard_learning_Ruwandan.jpg)
 
 （IT学習に打ち込むルワンダの小学生）
 
@@ -50,7 +50,7 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 # ITの力で戦争の原因を取り除け！私たちが紛争地の青少年へIT教育を行う意義
 
 
-![image1](./data/projects/01_edotech/student_learning_IT_in_rwanda.jpg)
+![image1](./data/projects/02_edotech/student_learning_IT_in_rwanda.jpg)
 
 （ITを学ぶ、ルワンダ人大学生）
 
@@ -58,7 +58,7 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 このPeace Techを、紛争地の青少年へ伝えていくことで、戦争の原因を未然に取り除くことができたらと私たちは考えています。
 例えば、ルワンダ虐殺の原因はフツ族とツチ族の対立で起きたと言われていますが、その本質的原因は、虐殺が起こる前の数年間に天候不順が続き、食料が不足したこと、食品会社がコーヒー豆の買取価格を下げたことで価格暴落が起きたことだと言われています。これらがフツ族のツチ族への虐殺の間接的な引き金となって、結果的にあの１００万人が亡くなる悲劇につながってしまいました。
 
-![image1](./data/projects/01_edotech/agriculture_of_Rwanda.jpg)
+![image1](./data/projects/02_edotech/agriculture_of_Rwanda.jpg)
 
 （現在のルワンダの風景）
 
@@ -66,7 +66,7 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 また、ITスキルの習得は、仕事に繋がります。
 教育活動を通じ、受講生の起業や雇用を後押しすることで、自立支援もしたいと思っています。
 
-![image1](./data/projects/01_edotech/young_man_learning_IT_in_syria.jpg)
+![image1](./data/projects/02_edotech/young_man_learning_IT_in_syria.jpg)
 
 （ITを学ぶシリア難民の若者）
 
@@ -77,7 +77,7 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 現状を見ると、今回、私たちがシリア難民の大学生向けに学校を開始するヨルダンでは、約4000人の若者が「イスラム国」（IS）に参加していると言われています。人数ではアルジェリアが世界最多ですが、人口比率でいうとヨルダンが世界トップです。せっかく理系・技術系教育や高等教育を学んでも、IS等のテロ組織に人材が行ってしまっては、意味がありません。
 そこでSocial Good Methodのカリキュラムは、社会貢献のためにICTが使われているケースを学ぶ「IT for Social Good」や、平和的に物事を進めるための「ピースフルマインド」や「ピース・パブリックリレーション」等の独自のコンテンツ構成となっています。
 
-![image1](./data/projects/01_edotech/case_study.jpg)
+![image1](./data/projects/02_edotech/case_study.jpg)
 
 （授業でケースとして扱う、モザンビークの無電化地域におけるIT活用（電子マネーインフラ敷設）の例）
 
@@ -86,14 +86,14 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 
 座学にて、ITやリーダーシップを学ぶだけでは、実際にリーダーとして活躍するには不十分です。そこでエドテックグローバルでは、地元NGOと連携し、ITによる社会課題解決の実践の場を提供します
 
-![image1](./data/projects/01_edotech/NGO_supporting_woman_job_seekers.jpg)
+![image1](./data/projects/02_edotech/NGO_supporting_woman_job_seekers.jpg)
 
 （連携先のシリア難民支援NGO。女性の就労支援や子どもの進学サポートを行っている）
 
 具体的には、受講生はエドテックグローバルスクールと連携しているNGOや困っている個人の方を訪問し、NGOや個人の方の抱えている問題についてヒアリングを行います。そして、エドテックのスタッフや訪問したNGOの職員と相談しながら、ヒアリングによって聞いた課題の解決方法を考案します。
 解決方法の実施にあたっては、世界中から寄付を集めるクラウドファンディングサイトを、学んだ技術を活かし、受講生と学校が共同で開発し、実施のための資金を募ります。
 
-![image1](./data/projects/01_edotech/detail_of_field_work.jpg)
+![image1](./data/projects/02_edotech/detail_of_field_work.jpg)
 
 
 生徒はNGO訪問により、通学費がないために学校に通えない子供達がいることを見つけ、その解決策（スクールバス）の運用を考案。解決策実施のための資金を寄付サイトで募集する）
@@ -104,7 +104,7 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 ②ITにより寄付を集めて、課題主体者が解決策を実行できるようにすることで、コミュニティに貢献する
 2つの方法で地域社会の問題の解決を目指し、生徒一人一人の「母国の人たちのために貢献したい」という思いを後押しします。
 
-![image1](./data/projects/01_edotech/NGO_of_syria_for_syria.jpg)
+![image1](./data/projects/02_edotech/NGO_of_syria_for_syria.jpg)
 
 （フィールドワークに協力いただく、シリア難民によって運営されるシリア難民支援組織の皆さん。戦争で負傷し障害を負った方たちのリハビリを支援している。）
 
@@ -114,7 +114,7 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 それは、日本人が、そのリーダーを育てるのに、世界でもっとも相応しいからです。
 理由は、日本人“３つの中立価値”と“２つの弱点”から来ています。
 
-![image1](./data/projects/01_edotech/strong_point_of_Japanese.jpg)
+![image1](./data/projects/02_edotech/strong_point_of_Japanese.jpg)
 
 
 日本人３つの中立価値とは、
@@ -130,7 +130,7 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 
 # 支援金の使い道
 
-![image1](./data/projects/01_edotech/children_who_can_not_go_school.jpg)
+![image1](./data/projects/02_edotech/children_who_can_not_go_school.jpg)
 
 （シリア難民の子どもたち。通学のための交通費が払えず、学校に通えていない。支援金の使い道のひとつ、「フィールドワーク」では生徒とともにこのような家庭や、NGOを訪問し諸社会問題の解決策を共に考案します。）
 
@@ -145,7 +145,7 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 - 場所 : ヨルダンの首都アンマンにある大学「Princess Sumaya University for Technologies(PSUT)」の教室（時期）3月～8月 (6月はラマダンのため中断)
 - 対象 : ITを学ぶシリア難民、PSUTの学生
 
-![image1](./data/projects/01_edotech/PSUT.jpg)
+![image1](./data/projects/02_edotech/PSUT.jpg)
 
 （Princess Sumaya University for technology学長のアレファル氏（中央）と幹部の教授陣、代表理事金野（右）、ヨルダン校CEO落合（左））
 
@@ -154,7 +154,7 @@ NPO法人エドテックグローバル代表理事の金野索一です。
 - 時期 : 3月上旬
 - 対象 : ITを学ぶルワンダの大学生、小学生
 
-![image1](./data/projects/01_edotech/ASID.jpg)
+![image1](./data/projects/02_edotech/ASID.jpg)
 
 （2016年9月、キガリにて。ASID担当者と、代表理事金野（左）、ルワンダ校CEO野口（右））
 
