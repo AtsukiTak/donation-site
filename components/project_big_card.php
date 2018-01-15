@@ -5,6 +5,11 @@ $project_info = json_decode($project_info_json_str);
 
 <script src="./asset/js/bit-coin-api.js"></script>
 <script src="./asset/js/jquery-qrcode.min.js"></script>
+<script>
+  $(document).ready(function(){
+    $('.ui.accordion').accordion();
+  });
+</script>
 
     <div class="ui vertical segment">
       <div class="ui fluid raised card">
@@ -52,16 +57,28 @@ $project_info = json_decode($project_info_json_str);
               <div class="item">
                 <div class="content" style="width: inherit">
                   <div class="ui small header"><i class="heart icon"></i>Donate</div>
-                  <div id="qrcode" style="margin: 0px auto; width: 100px; height: 100px"></div>
-                  <div class="ui mini input" id="bc-address" data-bc-address="<?php echo $project_info->btc_address; ?>" style="width: inherit">
-                  <input value="<?php echo $project_info->btc_address; ?>" readonly onclick="this.setSelectionRange(0, 9999);">
+                  <div class="ui styled accordion" style="margin-left:10%; margin-top:10px; width:90%;">
+                    <div class="<?php if ($project_info->bch_address == "") { echo "active"; } ?> title">with Bitcoin</div>
+                    <div class="<?php if ($project_info->bch_address == "") { echo "active"; } ?> content">
+                      <div id="qrcode-btc" style="margin: 0px auto; width: 100px; height: 100px"></div>
+                      <div class="ui mini input" id="btc-address" data-btc-address="<?php echo $project_info->btc_address; ?>" style="width: 100%">
+                        <input value="<?php echo $project_info->btc_address; ?>" readonly onclick="this.setSelectionRange(0, 9999);">
+                      </div>
+                      <div>
+                        <button class="indiesquare-button">IndieSquare Walletで寄付</button>
+                        <button class="indiesquare-button-web">IndieSquare Walletで寄付</button>
+                      </div>
+                    </div>
+                    <?php if ($project_info->bch_address != "") { ?>
+                    <div class="active title">with BitcoinCash</div>
+                    <div class="active content">
+                      <div id="qrcode-bch" style="margin: 0px auto; width: 100px; height: 100px"></div>
+                      <div class="ui mini input" id="bch-address" data-bch-address="<?php echo $project_info->bch_address; ?>" style="width: 100%">
+                        <input value="<?php echo $project_info->bch_address; ?>" readonly onclick="this.setSelectionRange(0, 9999);">
+                      </div>
+                    </div>
+                    <?php } ?>
                   </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="content">
-                  <button class="indiesquare-button">IndieSquare Walletで寄付</button>
-                  <button class="indiesquare-button-web">IndieSquare Walletで寄付</button>
                 </div>
               </div>
             </div>
@@ -96,11 +113,20 @@ $project_info = json_decode($project_info_json_str);
     </div>
 
 <script>
-// QR code
-var address = $("#bc-address").attr("data-bc-address");
-$("#qrcode").qrcode({
+// BTC QR code
+var btc_address = $("#btc-address").attr("data-btc-address");
+$("#qrcode-btc").qrcode({
 render: 'div',
-  text: address,
+  text: btc_address,
   size: 100
 });
+
+// BCH QR code
+var bch_address = $("#bch-address").attr("data-bch-address");
+$("#qrcode-bch").qrcode({
+render: 'div',
+  text: bch_address,
+  size: 100
+});
+
 </script>

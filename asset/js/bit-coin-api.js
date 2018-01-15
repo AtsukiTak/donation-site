@@ -2,7 +2,7 @@ jQuery(function () {
 
   // BitCoin情報取得
   function getBitCoinInfo() {
-    var bcaddress = jQuery("#bc-address").data("bc-address");
+    var bcaddress = $("#btc-address").attr("data-btc-address");
     jQuery.ajax({
       url: 'https://blockexplorer.com/api/addr/' + bcaddress,
       dataType: 'json',
