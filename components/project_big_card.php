@@ -58,8 +58,8 @@ $project_info = json_decode($project_info_json_str);
                 <div class="content" style="width: inherit">
                   <div class="ui small header"><i class="heart icon"></i>Donate</div>
                   <div class="ui styled accordion" style="margin-left:10%; margin-top:10px; width:90%;">
-                    <div class="<?php if ($project_info->bch_address == "") { echo "active"; } ?> title">with Bitcoin</div>
-                    <div class="<?php if ($project_info->bch_address == "") { echo "active"; } ?> content">
+                    <div class="<?php if ($project_info->bch_address == "") { echo "active"; } ?> title" style="background-color: #ffdf8285; color: orangered">with Bitcoin</div>
+                    <div class="<?php if ($project_info->bch_address == "") { echo "active"; } ?> content" style="background-color: #ffdf8285; color: orangered">
                       <div id="qrcode-btc" style="margin: 0px auto; width: 100px; height: 100px"></div>
                       <div class="ui mini input" id="btc-address" data-btc-address="<?php echo $project_info->btc_address; ?>" style="width: 100%">
                         <input value="<?php echo $project_info->btc_address; ?>" readonly onclick="this.setSelectionRange(0, 9999);">
@@ -70,8 +70,8 @@ $project_info = json_decode($project_info_json_str);
                       </div>
                     </div>
                     <?php if ($project_info->bch_address != "") { ?>
-                    <div class="active title">with BitcoinCash</div>
-                    <div class="active content">
+                    <div class="active title" style="background-color: #90ee9024; color: #529900">with BitcoinCash</div>
+                    <div class="active content" style="background-color: #90ee9024; color: #529900">
                       <div id="qrcode-bch" style="margin: 0px auto; width: 100px; height: 100px"></div>
                       <div class="ui mini input" id="bch-address" data-bch-address="<?php echo $project_info->bch_address; ?>" style="width: 100%">
                         <input value="<?php echo $project_info->bch_address; ?>" readonly onclick="this.setSelectionRange(0, 9999);">
