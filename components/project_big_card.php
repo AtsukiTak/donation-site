@@ -26,7 +26,8 @@ $project_info = json_decode($project_info_json_str);
                   <div class="ui tiny header"><i class="bitcoin icon"></i>Be Donated</div>
                   <div class="ui active centered mini inline loader description" id="btcLoader"></div>
                   <div class="vertical right aligned segment">
-                    <p id="btc" class="ui large header"></p>
+                    <p id="btc" class="ui large header" style="background-color:#ffdf8285; color:#ff6931"></p>
+                    <p id="bch" class="ui large header" style="background-color:#90ee9024; color:#529900"></p>
                     <p id="jpy" class=""></p>
                   </div>
                 </div>

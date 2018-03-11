@@ -42,6 +42,20 @@ jQuery(function () {
     });
   }
 
+  function getBCHInfo() {
+    var bchaddress = $("#bch-address").attr("data-bch-address");
+    jQuery.ajax({
+      url: 'https://blockdozer.com/insight-api/addr/' + bchaddress,
+      dataType: 'json',
+      type: 'GET',
+      success: function (data) {
+        $("#bch").text((Math.round(data.totalReceived * 1000)) + "mBCH");
+        $("#bchLoader").removeClass("active");
+      }
+    });
+  }
+
   // 実行
   getBitCoinInfo();
+  getBCHInfo();
 });
