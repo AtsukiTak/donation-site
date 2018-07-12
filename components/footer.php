@@ -29,16 +29,20 @@ if ($lang == "ja-jp"){
         <img class="ui middle aligned fluid image" src="./asset/img/suponsor_logo/okwave.png">
       </a>
 
+      <a class="two wide column" style="max-width:30vw" href="https://wallet.indiesquare.me/">
+        <img class="ui middle aligned fluid image" style="top:30%;" src="./asset/img/suponsor_logo/indiesquare.png">
+      </a>
+
       <a class="two wide column" style="max-width:30vw" href="https://satoricoin.jp/">
         <img class="ui middle aligned fluid image" src="./asset/img/suponsor_logo/raimu.png">
       </a>
 
-      <a class="two wide column" style="max-width:30vw" href="https://wallet.indiesquare.me/">
-        <img class="ui middle aligned fluid image" style="position:absolute; top:30%; right:0;" src="./asset/img/suponsor_logo/indiesquare.png">
+      <a class="two wide column" style="max-width:30vw" href="https://www.bitpoint.co.jp/">
+        <img class="ui middle aligned fluid image" style="top:30%;" src="./asset/img/suponsor_logo/bitpoint.png">
       </a>
 
       <a class="two wide column" style="max-width:30vw" href="https://breadwallet.com/">
-        <img class="ui middle aligned fluid image" style="position:absolute; top:20%; right:0;" src="./asset/img/suponsor_logo/bread.png">
+        <img class="ui middle aligned fluid image" style="top:20%;" src="./asset/img/suponsor_logo/bread.png">
       </a>
 
   </div>
