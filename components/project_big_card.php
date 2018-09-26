@@ -34,25 +34,9 @@ $project_info = json_decode($project_info_json_str);
               </div>
               <div class="item">
                 <div class="content">
-                  <div class="ui tiny header"><i class="yen icon"></i>Goal</div>
-                  <div class="vertical right aligned segment">
-                    <p class=""><?php echo $project_info->goal_amount; ?></p>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="content">
                   <div class="ui tiny header"><i class="users icon"></i>Supporters</div>
                   <div class="ui active centered mini inline loader description" id="txApperancesLoader"></div>
                   <p id="txApperances" class="ui right floated"></p>
-                </div>
-              </div>
-              <div class="item">
-                <div class="content">
-                  <div class="ui tiny header"><i class="wait icon"></i>Finish Date</div>
-                  <div class="vertical right aligned segment">
-                    <p class=""><?php echo $project_info->finish_date; ?></p>
-                  </div>
                 </div>
               </div>
               <div class="item">
